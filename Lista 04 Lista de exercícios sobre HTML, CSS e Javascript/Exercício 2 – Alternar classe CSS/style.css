@@ -1,0 +1,11 @@
+.bloco {
+    width: 200px;
+    height: 200px;
+    background: gray;
+    margin-bottom: 20px;
+}
+
+.ativo {
+    background: blue;
+    border: 5px solid black;
+}
